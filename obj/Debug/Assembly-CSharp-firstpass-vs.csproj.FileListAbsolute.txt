@@ -1,0 +1,12 @@
+G:\Program Files\GitRepositories\GoForIt\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+G:\Program Files\GitRepositories\GoForIt\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+G:\Program Files\GitRepositories\GoForIt\Temp\bin\Debug\UnityEditor.dll
+G:\Program Files\GitRepositories\GoForIt\Temp\bin\Debug\UnityEngine.dll
+G:\Program Files\GitRepositories\GoForIt\Temp\bin\Debug\UnityEngine.UI.dll
+G:\Program Files\GitRepositories\GoForIt\Temp\bin\Debug\Mono.Cecil.dll
+G:\Program Files\GitRepositories\GoForIt\Temp\bin\Debug\nunit.framework.dll
+G:\Program Files\GitRepositories\GoForIt\Temp\bin\Debug\Unity.DataContract.dll
+G:\Program Files\GitRepositories\GoForIt\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\Program Files\GitRepositories\GoForIt\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+G:\Program Files\GitRepositories\GoForIt\obj\Debug\Assembly-CSharp-firstpass.dll
+G:\Program Files\GitRepositories\GoForIt\obj\Debug\Assembly-CSharp-firstpass.pdb
